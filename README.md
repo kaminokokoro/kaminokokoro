@@ -5,6 +5,8 @@
 - 📫 How to reach me
 
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=kaminokokoro)
+
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaminokokoro&theme=tokyonight&show_icons=true" />
 </a>
