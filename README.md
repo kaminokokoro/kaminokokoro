@@ -12,9 +12,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaminokokoro&theme=tokyonight&show_icons=true" />
 </a>
+
+<!---
 <a href="https://github.com/anuraghazra/convoychat](https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://user-images.githubusercontent.com/116713724/200164537-2413db96-416e-4364-98f6-8135e0241954.gif" />
 </a>
+--->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaminokokoro&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
